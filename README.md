@@ -2,11 +2,16 @@
 
 **Mobile developer — iOS and Android. Minsk, Belarus.**
 
-Around two years as a Mobile Developer at Sport TV, on a sports streaming app
-built with Flutter for iOS and Android: subscriptions and iOS payments in native
-Swift, REST API integration, and store releases.
+I build mobile apps end to end: UI, playback, payments, API integration and
+store releases. Currently open to mobile roles — contacts are at the bottom.
 
-Open to mobile roles. Email and Telegram are at the bottom.
+## Experience
+
+**Mobile Developer — Sport TV** · around two years
+
+- A sports streaming app for iOS and Android, built with Flutter.
+- Subscriptions and iOS payments implemented in native Swift.
+- REST API integration and releases to the stores.
 
 ## Stack
 
@@ -25,6 +30,12 @@ Open to mobile roles. Email and Telegram are at the bottom.
 | **[fieldtasks](https://github.com/DNL04KA/fieldtasks)** | Offline-first field task manager: local storage, two-phase sync with conflict resolution, attachments, map, local notifications | React Native, Expo, TypeScript |
 | **[askbase](https://github.com/DNL04KA/askbase)** · [live](https://askbase-rho.vercel.app) | Multi-tenant RAG chatbot platform: document ingestion, answers with citations, embeddable widget, Stripe billing | Next.js, Supabase, pgvector |
 | **[Stedden](https://github.com/DNL04KA/Stedden)** | AI phone receptionist: voice agent over Twilio ConversationRelay, deterministic state machine, admin panel | Python, FastAPI, PostgreSQL |
+
+Also worth a look: **[funnel-runtime](https://github.com/DNL04KA/funnel-runtime)**
+([live](https://funnel-runtime-wzc8.onrender.com)) — configurable web funnels
+with versioning, A/B tests and analytics; and
+**[resumetesttusk](https://github.com/DNL04KA/resumetesttusk)** — a GraphQL API
+on NestJS and Prisma.
 
 ## Education
 
