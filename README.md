@@ -1,38 +1,40 @@
 # Daniil Nesterovich
 
-Mobile developer from Minsk, Belarus. iOS and Android.
+**Mobile developer — iOS and Android. Minsk, Belarus.**
 
-Around two years as a Mobile Developer at Sport TV, working on a sports streaming
-app built with Flutter for iOS and Android: subscriptions and iOS payments in
-native Swift, REST API integration, and store releases.
+Around two years as a Mobile Developer at Sport TV, on a sports streaming app
+built with Flutter for iOS and Android: subscriptions and iOS payments in native
+Swift, REST API integration, and store releases.
+
+Open to mobile roles. Email and Telegram are at the bottom.
 
 ## Stack
 
-- **Mobile:** Swift, SwiftUI, Kotlin, Jetpack Compose, Compose for TV, Flutter
-- **Web and backend:** TypeScript, Next.js, Python, FastAPI, PostgreSQL, Supabase
+| | |
+| --- | --- |
+| **iOS** | Swift, SwiftUI |
+| **Android** | Kotlin, Jetpack Compose, Compose for TV |
+| **Cross-platform** | Flutter |
+| **Web and backend** | TypeScript, Next.js, Python, FastAPI, PostgreSQL, Supabase |
 
 ## Selected projects
 
-- **[svoisport](https://github.com/DNL04KA/svoisport)** — Android TV streaming
-  client in Kotlin and Compose for TV: D-pad navigation, Media3 HLS playback,
-  schedule and archive, match reminders, and subscription activation by QR code
-  through a companion web page.
-- **[fieldtasks](https://github.com/DNL04KA/fieldtasks)** — offline-first field
-  task manager in React Native (Expo, TypeScript): local storage, two-phase sync
-  with conflict resolution, attachments, map, and local notifications.
-- **[askbase](https://github.com/DNL04KA/askbase)** — multi-tenant RAG chatbot
-  platform: Next.js, Supabase with pgvector, embeddable widget, Stripe billing.
-  [Live demo](https://askbase-rho.vercel.app)
-- **[Stedden](https://github.com/DNL04KA/Stedden)** — AI phone receptionist for
-  med spas: Python, FastAPI, Twilio ConversationRelay, PostgreSQL.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[svoisport](https://github.com/DNL04KA/svoisport)** | Android TV streaming client: D-pad navigation, HLS playback, schedule and archive, match reminders, subscription activation by QR code | Kotlin, Compose for TV, Media3, Hilt |
+| **[fieldtasks](https://github.com/DNL04KA/fieldtasks)** | Offline-first field task manager: local storage, two-phase sync with conflict resolution, attachments, map, local notifications | React Native, Expo, TypeScript |
+| **[askbase](https://github.com/DNL04KA/askbase)** · [live](https://askbase-rho.vercel.app) | Multi-tenant RAG chatbot platform: document ingestion, answers with citations, embeddable widget, Stripe billing | Next.js, Supabase, pgvector |
+| **[Stedden](https://github.com/DNL04KA/Stedden)** | AI phone receptionist: voice agent over Twilio ConversationRelay, deterministic state machine, admin panel | Python, FastAPI, PostgreSQL |
 
 ## Education
 
-BSUIR (Belarusian State University of Informatics and Radioelectronics),
-engineer in information technologies and management, 2026.
+BSUIR — Belarusian State University of Informatics and Radioelectronics.
+Engineer in information technologies and management, 2026.
 
 ## Contact
 
-- Email: nesterovichds0512@gmail.com
-- Telegram: [@dnl04ka](https://t.me/dnl04ka)
-- English: B2
+| | |
+| --- | --- |
+| Email | nesterovichds0512@gmail.com |
+| Telegram | [@dnl04ka](https://t.me/dnl04ka) |
+| Languages | Russian — native, English — B2 |
